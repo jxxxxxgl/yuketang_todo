@@ -31,7 +31,7 @@ classRoomUrlList = [] # 课程链接
 
 headers = {
     'Host': 'changjiang.yuketang.cn',
-    'Cookie': 'django_language=zh-cn; JG_fcdf8e635093adde6bef42651_PV=1683467566762|1683467566762; csrftoken=l7P4YgPpQqJ9UBrNNvjtvV14iLbzQmou; sessionid=6znpnhj52ow087urpb11tnl16vkzfksf',
+    'Cookie': '自己的Cookie',
     'Sec-Ch-Ua-Mobile': '?0',
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
     'Xt-Agent': 'web',
